@@ -19,8 +19,6 @@ While the paper has been out for a year, its structural analysis of "cost-per-to
 - **2026-01-06**: Established the organization profile and defined the core mission.
 - **Ongoing**: Benchmarking consumer-grade hardware clusters.
 
-## 🔗 Stay Connected
-- **Project Boards**: [View our Roadmap](https://github.com/orgs/mnode-lab/projects)
-- **Discussions**: [Join the conversation](https://github.com/orgs/mnode-lab/discussions)
+
 
 
