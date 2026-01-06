@@ -1,4 +1,4 @@
-# 🚀 mnode-lab (Micro-Node Lab)
+# 🚀 µnode-lab (Micro-Node Lab)
 
 We are a small collective of tech enthusiasts from diverse engineering backgrounds, driven by curiosity and the spirit of open-source validation.
 
