@@ -17,7 +17,7 @@ While the paper has been out for a year, its structural analysis of "cost-per-to
 
 ## 📅 Public Progress (Build in Public)
 - **2026-01-06**: Established the organization profile and defined the core mission.
-- **Ongoing**: Benchmarking consumer-grade hardware clusters.
+- **Current Status**: **In Architectural Design** — Modeling hardware topology and cost-performance baselines.
 
 
 
